@@ -1,0 +1,3 @@
+language: pascal
+pascal: 
+  - 3.0.0
